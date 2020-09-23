@@ -1,5 +1,5 @@
-public class test01{
-  public static void main{
-    System.out.println("hello dongyimai");
-
+class Test01{
+  public static void main(String[] args) {
+    System.out.println("蓝天白云");
+  }
 }
